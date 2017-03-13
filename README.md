@@ -2,15 +2,15 @@
 Bomgar PAM
 
 ## scripts
-Tested on Ubuntu (14.04), should also work on Debian/RH/CentOS.
+Tested on Ubuntu (14.04, 16.04) and CentOS 7, should also work on Debian/RH.
 
 #### bomjc.sh
 Installs jumpclient binary to /opt/bomgar
+User and path can be configured with vars in script
 
-* adds + runs as user "bomgar"
-* create init script and symlinks 
+* adds user + runs as user "bomgar"
+* creates init script and symlinks 
 * starts client
-* user and path can be configured with var in script
 
 #### bomjc-rm.sh
-Uninstalls jumpclient and removes install user/dir etc
+Uninstalls jumpclient and removes installer, user, dir etc

@@ -13,4 +13,4 @@ User and path can be configured with vars in script
 * starts client
 
 #### bomjc-rm.sh
-Uninstalls jumpclient and removes installer, user, dir etc
+Uninstalls jumpclient and removes user, dir and init script

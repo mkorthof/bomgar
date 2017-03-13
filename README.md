@@ -1,6 +1,8 @@
 # Bomgar
 Bomgar PAM
 
+Automated Jump Client installation and removal
+
 ## scripts
 Tested on Ubuntu (14.04, 16.04) and CentOS 7, should also work on Debian/RH.
 

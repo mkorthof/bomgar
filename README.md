@@ -1,9 +1,12 @@
 # Bomgar
 Bomgar PAM
 
-Automated Jump Client installation and removal for headless Linux clients
+### blog.ini
+Debug settings
+Place in same dir as binary to generate logs in /tmp
 
 ## scripts
+Automated Jump Client installation and removal for headless Linux clients
 Tested on Ubuntu (14.04, 16.04) and CentOS 7, should also work on Debian/RH.
 
 #### bomjc.sh

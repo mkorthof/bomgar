@@ -3,6 +3,7 @@ Bomgar PAM
 
 ### blog.ini
 Debug settings
+
 Place in same dir as binary to generate logs in /tmp
 
 ## scripts

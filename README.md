@@ -2,7 +2,7 @@
 Bomgar PAM
 
 ### blog.ini
-Debug settings, see not for permanent use (see #1)<br/>
+Debug settings, see not for permanent use (see [Pull Request #1](https://github.com/mkorthof/bomgar/pull/1))<br/>
 Place in same dir as binary to generate logs in /tmp
 
 ## scripts
